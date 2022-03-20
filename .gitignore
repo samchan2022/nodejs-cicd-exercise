@@ -1,0 +1,6 @@
+*.xlsx
+*.csv
+*.pdf
+**/to_yip
+/data/
+node_modules
